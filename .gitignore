@@ -1,4 +1,7 @@
 *.pyc
 *~
+nsc*/config.log
+nsc*/*.dblite
+nsc*/*sconf_temp
 
 

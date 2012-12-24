@@ -1,0 +1,9 @@
+[submodule "ns-3-openflow-nat"]
+	path = ns-3-openflow-nat
+	url = git@github.com:TakashiSasaki/ns-3-openflow-nat
+[submodule "ns-3-nat"]
+	path = ns-3-nat
+	url = git@github.com:TakashiSasaki/ns-3-nat
+[submodule "openflow"]
+	path = openflow
+	url = git@github.com:TakashiSasaki/openflow

@@ -3,5 +3,11 @@
 nsc*/config.log
 nsc*/*.dblite
 nsc*/*sconf_temp
+netanim*/*.o
+netanim*/Makefile
+netanim*/NetAnim
+netanim*/moc_animatormode.cpp
+netanim*/moc_animatorscene.cpp
+netanim*/qrc_animator.cpp
 
 

@@ -11,7 +11,7 @@ if __name__ == "__main__":
     os.system("cd openflow; ./waf configure")
     os.system("cd openflow; ./waf")
     os.system("cd ns-3-nat; ./waf clean")
-    os.system("cd ns-3-nat; ./waf configure --enable-tests --enable-examples")
+    os.system("cd ns-3-nat; ./waf configure --enable-tests --enable-examples --enable-mpi")
     os.system("cd ns-3-nat; ./waf")
     os.system("cd ns-3-nat; ./test.py")
  
